@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Read And Cut Text</string>
+    <string name="information_text_all">execution</string>
+    <string name="enter_text">enter text</string>
+    <string name="Dont_text">without text to go</string>
+    <string name="read_more">read more</string>
+    <string name="chart_at_m">chart (M) : </string>
+    <string name="chart_at_a">chart (A) : </string>
+    <string name="chart_at_s">chart (S) : </string>
+    <string name="chart_at_t">chart (T) : </string>
+    <string name="chart_at_r">chart (r) : </string>
+    <string name="chart_at_i">chart (I) : </string>
+    <string name="chart_at_n">chart (N) : </string>
+    <string name="chart_at_g">chart (G) : </string>
+
+    <string name="chart_at_m_ar">الحرف (م) : </string>
+    <string name="chart_at_a_ar">الحرف (ا) : </string>
+    <string name="chart_at_s_ar">الحرف (س) : </string>
+    <string name="chart_at_t_ar">الحرف (ت) : </string>
+    <string name="chart_at_r_ar">الحرف (ر) : </string>
+    <string name="chart_at_i_ar">الحرف (ي) : </string>
+    <string name="chart_at_n_ar">الحرف (ن) : </string>
+    <string name="chart_at_g_ar">الحرف (ج) : </string>
+
+    <string name="edit">edit</string>
+    <string name="replies">replies all</string>
+    <string name="copy">copy</string>
+    <string name="enter_text_replies">enter text to replies</string>
+    <string name="english">English</string>
+    <string name="Arabic">العربية</string>
+    <string name="not">\" \"</string>
+    <string name="delete">Delete</string>
+    <string name="selected_item">selected item</string>
+    <string name="languages">languages</string>
+    <string name="save_lan">Save Language</string>
+
+    <string name="choosethelanguage">choose the language</string>
+    <string name="entertochange">enter to change</string>
+    <string name="enter_word_before">enter word before</string>
+    <string name="enter_word_new">enter word new</string>
+    <string name="enter_change_space_to">enter change space to …</string>
+    <string name="count_word">count word</string>
+    <string name="count_chart">count chart</string>
+    <string name="long_word">long word</string>
+    <string name="count_chart_at_without_space">count chart at without space</string>
+    <string name="min_word">min word</string>
+    <string name="count_line">count line</string>
+    <string name="count_loop_the_most_chart_at">count loop the most chart at</string>
+    <string name="add_text">Add text</string>
+
+
+    <string-array name="text_c">
+        <item>natural</item>
+        <item>All chart Larger</item>
+        <item>All chart smaller</item>
+    </string-array>
+    <string name="loading">loading to change</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="o">o</string>
+    <string name="i">|</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dp_you_close_app">dp you close app</string>
+    <string name="close">close</string>
+    <string name="save_last_text">save last text</string>
+
+
+</resources>
